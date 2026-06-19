@@ -35,21 +35,21 @@ def load_models():
 
     drug_profiles = pickle.load(
         open(
-            "models/drug_profiles.pkl",
+            "Models/drug_profiles.pkl",
             "rb"
         )
     )
 
     drug_similarity = pickle.load(
         open(
-            "models/drug_similarity.pkl",
+            "Models/drug_similarity.pkl",
             "rb"
         )
     )
 
     drug_summary = pickle.load(
         open(
-            "models/drug_summary.pkl",
+            "Models/drug_summary.pkl",
             "rb"
         )
     )
