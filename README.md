@@ -38,29 +38,15 @@ The workflow followed in this project:
 
 ## Tech Stack
 
-**Programming Language**
+**Programming**: Python
 
-* Python
+**Libraries**: Pandas, NumPy, Scikit-Learn, NLTK
 
-**Libraries**
+**NLP**: TF-IDF Vectorization, Cosine Similarity
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* NLTK
+**Deployment**: Streamlit
 
-**NLP Techniques**
-
-* TF-IDF Vectorization
-* Cosine Similarity
-
-**Deployment**
-
-* Streamlit
-
-**Model Storage**
-
-* Pickle
+**Model Storage**: Pickle
 
 ## Project Structure
 
